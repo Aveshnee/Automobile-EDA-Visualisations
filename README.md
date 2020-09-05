@@ -1,2 +1,2 @@
 # Automobile-EDA-Visualisations
-EDA Report and Visualisation of cars93 dataset 
+EDA Report and Visualisation of Automobile dataset 
