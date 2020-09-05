@@ -3,7 +3,20 @@ EDA Report and Visualisation of Automobile dataset
 
 # Conduct an Exploratory Data Analysis (EDA) on the Automobile dataset to get further insights, clean the data and answer some questions. 
 
-Approach
+
+## CONTENTS
+
+Introduction
+
+Data Cleaning
+
+Missing Data
+
+Data Stories and Visualisations
+ 
+
+
+## Approach
 
 •	Finding patterns in data.
 
@@ -15,7 +28,7 @@ Approach
 
 
 
-What question(s) are you trying to solve (or prove wrong)?
+## What question(s) are you trying to solve (or prove wrong)?
 
 1.	Do the Body Size, Style and Engine Specification determine the car price?
 
