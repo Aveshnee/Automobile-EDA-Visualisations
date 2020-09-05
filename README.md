@@ -14,6 +14,7 @@ Approach
 •	Drawing conclusions.
 
 
+
 What question(s) are you trying to solve (or prove wrong)?
 
 1.	Do the Body Size, Style and Engine Specification determine the car price?
